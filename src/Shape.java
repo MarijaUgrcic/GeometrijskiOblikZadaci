@@ -1,7 +1,7 @@
 public class Shape {
 
-    protected double x;
-    protected double y;
+    protected double a;
+    protected double b;
     protected String boja;
     protected String oblik;
 
