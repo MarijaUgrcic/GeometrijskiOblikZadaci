@@ -2,7 +2,6 @@
 
 public class Kvadrat extends Shape {
 
-    private double a;
 
     public double getA() {
         return a;
